@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dev_tips",
-    version="1.0.1",
+    version="1.0.2",
     author="Ígor Yamamoto",
     author_email="hello@igoryamamoto.com",
     description="CLI version of 97 Things Every Programmer Should Know",
@@ -14,7 +14,7 @@ setuptools.setup(
     url="https://github.com/igoryamamoto/dev-tips",
     packages=setuptools.find_packages(),
     package_data={
-        "": ["*.md"],
+        "dev_tips": ["*.md"],
     },
     classifiers=[
         "Programming Language :: Python :: 3",
