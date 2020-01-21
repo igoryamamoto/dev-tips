@@ -1,3 +1,12 @@
+# [](https://github.com/igoryamamoto/dev-tips/compare/v1.0.1...v) (2020-01-21)
+
+
+### Bug Fixes
+
+* Fix package data configuration on setup.py ([925c9ce](https://github.com/igoryamamoto/dev-tips/commit/925c9ce47773d02c67d8582f14d0ad2e875d0148))
+
+
+
 # [](https://github.com/igoryamamoto/dev-tips/compare/v1.0.0...v) (2020-01-21)
 
 
